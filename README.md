@@ -7,3 +7,4 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 ## The information you will get
 - Current and “Feels like” temperature
 - Wind speed and direction
+- Humidity
